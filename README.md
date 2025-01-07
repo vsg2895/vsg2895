@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Web architect from Armenia</h1>
 
-<!--
-**vsg2895/vsg2895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musheghtorosyan" height="30" width="40" /></a>
+<a href="https://fb.com/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musheghtorosyan" height="30" width="40" /></a>
+<a href="https://instagram.com/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musheghtorosyan" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musheghtorosyan&label=Profile%20views&color=0e75b6&style=flat" alt="musheghtorosyan" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheghtorosyan" alt="musheghtorosyan" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan&" alt="musheghtorosyan" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=musheghtorosyan&show_icons=true&locale=en" alt="musheghtorosyan" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheghtorosyan&show_icons=true&locale=en&layout=compact" alt="musheghtorosyan" /></p>
